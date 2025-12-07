@@ -2,18 +2,24 @@
 > **Raw. Unfiltered. Anonymous.** > A modern, mobile-first imageboard client built with React Native & Expo.
 
 <div align="center">
-  <img src="image_a91722.png" alt="AnonChan Logo" width="120" height="120" />
+<img width="283" height="229" alt="image" src="https://github.com/user-attachments/assets/7f7dac83-667d-4f4f-8809-48ab19e268d9" />
+
 </div>
 
-## ScreenShots
-<img width="1080" height="2400" alt="Screenshot_1765121061" src="https://github.com/user-attachments/assets/3ade3521-5948-410d-8839-b282376d38a2" />
-<img width="1080" height="2400" alt="Screenshot_1765121065" src="https://github.com/user-attachments/assets/b417523d-5ac1-4f0d-ad61-18f511c4f59b" />
-<img width="1080" height="2400" alt="Screenshot_1765121069" src="https://github.com/user-attachments/assets/204bf10d-90f8-446b-b236-9bad5b05f7f6" />
-<img width="1080" height="2400" alt="Screenshot_1765121071" src="https://github.com/user-attachments/assets/00b7c108-c489-4f96-a417-13d0c35cdf04" />
-<img width="1080" height="2400" alt="Screenshot_1765121074" src="https://github.com/user-attachments/assets/a195a80d-276a-4d32-bd14-560c0483b5d3" />
-<img width="1080" height="2400" alt="Screenshot_1765121087" src="https://github.com/user-attachments/assets/853ab21e-6a28-4477-84ba-b35abc6fb90c" />
-<img width="1080" height="2400" alt="Screenshot_1765121086" src="https://github.com/user-attachments/assets/0a76c009-cca0-497a-bcb3-ccb28b5eacee" />
+<div align="center">
 
+| **Onboarding** | **Privacy First** | **Board Browser** |
+|:---:|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/3ade3521-5948-410d-8839-b282376d38a2" width="250" /> | <img src="https://github.com/user-attachments/assets/b417523d-5ac1-4f0d-ad61-18f511c4f59b" width="250" /> | <img src="https://github.com/user-attachments/assets/204bf10d-90f8-446b-b236-9bad5b05f7f6" width="250" /> |
+
+| **Catalog Grid** | **Thread View** | **Watched Threads** |
+|:---:|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/00b7c108-c489-4f96-a417-13d0c35cdf04" width="250" /> | <img src="https://github.com/user-attachments/assets/a195a80d-276a-4d32-bd14-560c0483b5d3" width="250" /> | <img src="https://github.com/user-attachments/assets/853ab21e-6a28-4477-84ba-b35abc6fb90c" width="250" /> |
+
+<p><b>Menu / Options</b></p>
+<img src="https://github.com/user-attachments/assets/0a76c009-cca0-497a-bcb3-ccb28b5eacee" width="250" />
+
+</div>
 <div align="center">
 
 [![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
